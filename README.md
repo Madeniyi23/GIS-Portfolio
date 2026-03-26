@@ -39,7 +39,7 @@ Location Intelligence & Decision Support
 
 ### 1. AGOL Web Map Data Extractor
 **Description:**  
-Developed a Python-based tool to automate extraction of all feature layers from ArcGIS Online web maps into File Geodatabases.
+Developed a reusable Python tool to automate extraction of feature layers from ArcGIS Online web maps into File Geodatabases, supporting data backup, migration, and analysis workflows.
 
 **Key Contributions:**
 - Designed reusable workflow supporting multiple ArcGIS Online organizations  
