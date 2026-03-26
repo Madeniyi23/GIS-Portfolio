@@ -1,7 +1,7 @@
 # Muyiwa Adeniyi – GIS Portfolio
 
 ## Overview
-Enterprise GIS Specialist with 10+ years of experience delivering scalable geospatial solutions across municipal, utilities, and infrastructure environments.
+Enterprise GIS Specialist with 10+ years of experience delivering scalable geospatial solutions and enabling data-driven decision-making across municipal, utilities, and infrastructure environments.
 
 Proven track record in designing GIS systems, automating workflows, and leading large-scale application transformations within ArcGIS Enterprise and ArcGIS Online ecosystems.
 
