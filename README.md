@@ -5,6 +5,12 @@ Enterprise GIS Specialist with 10+ years of experience delivering scalable geosp
 
 Proven track record in designing GIS systems, automating workflows, and leading large-scale application transformations within ArcGIS Enterprise and ArcGIS Online ecosystems.
 
+## Selected Impact Highlights
+
+- Migrated **180+ GIS applications** from Web AppBuilder to Experience Builder  
+- Developed Python automation tools for **AGOL data extraction and auditing**  
+- Supported municipal forestry operations with **data-driven planning tools**  
+
 ---
 ## Selected Outcomes
 - Migrated 180+ apps from WAB to ExB
@@ -37,7 +43,8 @@ Developed a Python-based tool to automate extraction of all feature layers from 
 
 **Key Contributions:**
 - Designed reusable workflow supporting multiple ArcGIS Online organizations  
-- Automated multi-layer extraction, reducing manual export time significantly  
+- Automated multi-layer extraction, reducing manual export time significantly
+- Enabled **scalable data backup workflows**    
 - Enabled consistent data backup and offline analysis processes  
 
 **Tech Stack:**  
@@ -46,6 +53,7 @@ Python, ArcGIS API for Python
 **Impact:**  
 Improved efficiency for GIS teams by eliminating repetitive data export tasks and enabling scalable data management workflows.
 
+[View Repository](https://github.com/YOUR_USERNAME/agol-webmap-extractor)
 ---
 
 ### 2. Web AppBuilder → Experience Builder Migration (Enterprise Scale)
