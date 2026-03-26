@@ -6,14 +6,26 @@ Enterprise GIS Specialist with 10+ years of experience delivering scalable geosp
 Proven track record in designing GIS systems, automating workflows, and leading large-scale application transformations within ArcGIS Enterprise and ArcGIS Online ecosystems.
 
 ---
+## Selected Outcomes
+- Migrated 180+ apps from WAB to ExB
+- Supported municipal forestry operations workflows
+- Built Python automation for AGOL and data audit processes
+
+---
 
 ## Core Capabilities
-- ArcGIS Pro | ArcGIS Online | Experience Builder | Web AppBuilder  
-- Python (ArcPy, ArcGIS API for Python) | SQL | FME  
-- Enterprise GIS Architecture & Application Design  
-- GIS Automation & Workflow Optimization  
-- Spatial Data Management & Governance  
-- Location Intelligence & Decision Support  
+
+**GIS Platforms**  
+ArcGIS Pro | ArcGIS Online | Experience Builder | Web AppBuilder  
+
+**Automation & Data**  
+Python (ArcPy, ArcGIS API for Python) | SQL | FME  
+
+**Specializations**  
+Enterprise GIS Architecture & Application Design  
+GIS Automation & Workflow Optimization  
+Spatial Data Management & Governance  
+Location Intelligence & Decision Support    
 
 ---
 
